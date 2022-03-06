@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1557133551 source:e:\ltnc\code\ap\quickquick\board.cpp
+	<bits/stdc++.h>
+	"Board.h"
+
+1557133732 e:\ltnc\code\ap\quickquick\board.h
+
+1558789888 source:e:\ltnc\code\ap\quickquick\main.cpp
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_ttf.h>
+	"Board.h"
+	"Sol.h"
+
+1557133542 e:\ltnc\code\ap\quickquick\sol.h
+
+1557167881 source:e:\ltnc\code\ap\quickquick\sol.cpp
+	<bits/stdc++.h>
+	"Sol.h"
+	"Board.h"
+
+1557133551 source:c:\users\dell\desktop\btl\quickquick\board.cpp
+	<bits/stdc++.h>
+	"Board.h"
+
+1557133732 c:\users\dell\desktop\btl\quickquick\board.h
+
+1557167881 source:c:\users\dell\desktop\btl\quickquick\sol.cpp
+	<bits/stdc++.h>
+	"Sol.h"
+	"Board.h"
+
+1557133542 c:\users\dell\desktop\btl\quickquick\sol.h
+
